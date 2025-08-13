@@ -12,6 +12,7 @@ def main():
         fence_output=False,
         use_schema_constraints=False
     )
+    print(result)
 
 
 if __name__ == "__main__":
